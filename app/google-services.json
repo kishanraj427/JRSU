@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897290237861",
+    "project_id": "jrsu-653e8",
+    "storage_bucket": "jrsu-653e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897290237861:android:5e24f1052f585a92769a4c",
+        "android_client_info": {
+          "package_name": "com.jrsu.jharkhand.raksha.shakti.university"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897290237861-ua3qddodnro9q5tvse2bc25kqcf3tu35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAj0VZNMkD9N91f2wb_gtA7AU-TmVOllc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897290237861-ua3qddodnro9q5tvse2bc25kqcf3tu35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
